@@ -16,3 +16,8 @@ All front end coding (html and javascript) used html5 features as below
 * Hammer js
 * Prefixfree
 * Modernizr js
+
+
+link to build Modernizr js library for this website
+
+https://modernizr.com/download?applicationcache-batteryapi-devicemotion_deviceorientation-geolocation-getusermedia-localstorage-mediaqueries-peerconnection-progressbar_meter-touchevents-vibrate
