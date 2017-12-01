@@ -1,7 +1,6 @@
 CACHE MANIFEST
-# v1
+# v2
 lib/hammer.min.js
-lib/hammer.min.js.map
 lib/hammer.time.min.js
 lib/prefixfree.min.js
 lib/modernizr-final.js
